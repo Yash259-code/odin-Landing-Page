@@ -19,10 +19,6 @@ While building this project, I strengthened my understanding of:
 - Balancing layouts using padding, margins, and border-radius.
 - Selecting and implementing web fonts.
 
-## 📸 Screenshot
-*(Optional: Add a screenshot of your finished page here!)*
-![Project Screenshot](./path-to-screenshot.png)
-
 ## 🤝 Acknowledgments
 - Thanks to **The Odin Project** community for the awesome curriculum!
 
